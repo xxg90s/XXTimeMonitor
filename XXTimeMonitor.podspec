@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
   s.version      = "1.0.0"
   s.license      = "MIT"
   s.summary      = "一个简单的App启动计时工具"
-  s.homepage     = "https://github.com/xxg90s/XXGravityBall"
+  s.homepage     = "https://github.com/xxg90s/XXTimeMonitor"
   s.source       = { :git => "https://github.com/xxg90s/XXTimeMonitor.git", :tag => "#{s.version}" }
   s.source_files = "XXTimeMonitor/XXTimeMonitorDemo/XXTimeMonitorDemo/XXTimeMonitor/*.{h,m}"
   s.requires_arc = true

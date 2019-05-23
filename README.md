@@ -5,6 +5,7 @@
 
 Pod支持  `pod 'XXTimeMonitor', '~> 1.0.0'`
 
-详情请参看Demo
+相关文章：
+[iOS App 启动速度优化](https://www.jianshu.com/p/ad18eee26b80)
 
 
