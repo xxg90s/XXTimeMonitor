@@ -1,5 +1,7 @@
 # XXTimeMonitor
-一个简单的监控启动时App各阶段耗时，通过耗时分析进行App的启动优化。
+一个简单的监控启动时App各阶段耗时，通过耗时分析进行App的启动优化。效果如下:
+
+![Image](https://github.com/xxg90s/XXTimeMonitor/blob/master/timeMonitorResult.png)
 
 如何使用：
 

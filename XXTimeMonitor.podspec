@@ -13,7 +13,7 @@ Pod::Spec.new do |s|
   s.summary      = "一个简单的App启动计时工具"
   s.homepage     = "https://github.com/xxg90s/XXTimeMonitor"
   s.source       = { :git => "https://github.com/xxg90s/XXTimeMonitor.git", :tag => "#{s.version}" }
-  s.source_files = "XXTimeMonitor/XXTimeMonitorDemo/XXTimeMonitorDemo/XXTimeMonitor/*.{h,m}"
+  s.source_files = "XXTimeMonitorDemo/XXTimeMonitorDemo/XXTimeMonitor/*.{h,m}"
   s.requires_arc = true
   s.platform     = :ios, "7.0"
   s.frameworks   = "UIKit", "Foundation"
